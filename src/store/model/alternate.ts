@@ -31,7 +31,7 @@ export const Alternate: Store = {
 			brand: 'test:brand',
 			model: 'test:model',
 			series: 'test:series',
-			url: 'https://www.alternate.de/product/1662088'
+			url: 'https://www.alternate.de/product/1516616'
 		},
 		{
 			brand: 'asus',
@@ -406,10 +406,82 @@ export const Alternate: Store = {
 			url: 'https://www.alternate.de/product/1675117'
 		},
 		{
-			brand: 'sony',
-			model: 'ps5 console',
-			series: 'sonyps5c',
-			url: 'https://www.alternate.de/product/1676874'
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1698703'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1698708'
+		},
+		{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1698650'
+		},
+		{
+			brand: 'palit',
+			model: 'dual oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694308'
+		},
+		{
+			brand: 'gainward',
+			model: 'phoenix gs',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694299'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694048'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694007'
+		},
+		{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694335'
+		},
+		{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1693361'
+		},
+		{
+			brand: 'gainward',
+			model: 'ghost oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694300'
+		},
+		{
+			brand: 'palit',
+			model: 'gamingpro oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1694305'
+		},
+		{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1698594'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3060ti',
+			url: 'https://www.alternate.de/product/1698704'
 		}
 	],
 	name: 'alternate'

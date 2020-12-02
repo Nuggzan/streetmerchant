@@ -284,6 +284,30 @@ export const Notebooksbilliger: Store = {
 			model: '5950x',
 			series: 'ryzen5950',
 			url: 'https://www.notebooksbilliger.de/amd+ryzen+9+5950x+cpu+684033'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+			url: 'https://www.notebooksbilliger.de/asus+tuf+geforce+rtx+3060+ti+8gb+oc+grafikkarte+687930'
+		},
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+			url: 'https://www.notebooksbilliger.de/asus+dual+geforce+rtx+3060+ti+oc+8gb+grafikkarte+687935'
+		},
+		{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3060ti',
+			url: 'https://www.notebooksbilliger.de/zotac+gaming+geforce+rtx+3060+ti+twin+edge+oc+8gb+grafikkarte+688863'
+		},
+		{
+			brand: 'palit',
+			model: 'dual oc',
+			series: '3060ti',
+			url: 'https://www.notebooksbilliger.de/palit+geforce+rtx+3060ti+dual+oc+8gb+gddr6+grafikkarte+687984'
 		}
 	],
 	name: 'notebooksbilliger'
